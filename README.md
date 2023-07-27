@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Radhika</h1>
 <h3 align="center">A passionate FullStack, Web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flotties%2Fcoder&psig=AOvVaw1BN418h7kvVi-nQYW-2k-j&ust=1690527130686000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKC-1rqmroADFQAAAAAdAAAAABAI">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhika111k&label=Profile%20views&color=0e75b6&style=flat" alt="radhika111k" /> </p>
 
