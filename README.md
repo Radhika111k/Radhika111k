@@ -5,8 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhika111k&label=Profile%20views&color=0e75b6&style=flat" alt="radhika111k" /> </p>
 
 - 🌱 I’m currently learning **Web Development,WordPress,React-JS,C++,C#,Java**
+.I have comprehensive understanding of both front-end and back-end technologies,and I specialize in designing and developing web applications that are both visually appealing and highly functional skilled programming languages such as c#,c++,core java, adv.java and popular frameworks like React Additionally,I am proficient in database design and management,using technologies such as MySQL,MongoDB. 
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/radhiika6295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="radhiika6295" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@radhika945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@radhika945" height="30" width="40" /></a>
 </p>
 
