@@ -6,9 +6,7 @@
 
 - 🌱 I’m currently learning **Web Development,WordPress,React-JS,C++,C#,Java**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/radhika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="radhika" height="30" width="40" /></a>
+
 <a href="https://www.hackerearth.com/@radhika945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@radhika945" height="30" width="40" /></a>
 </p>
 
