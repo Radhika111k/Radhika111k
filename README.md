@@ -5,7 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhika111k&label=Profile%20views&color=0e75b6&style=flat" alt="radhika111k" /> </p>
 
 - 🌱 I’m currently learning **Web Development,WordPress,React-JS,C++,C#,Java**
-.I have comprehensive understanding of both front-end and back-end technologies,and I specialize in designing and developing web applications that are both visually appealing and highly functional skilled programming languages such as c#,c++,core java, adv.java and popular frameworks like React Additionally,I am proficient in database design and management,using technologies such as MySQL,MongoDB. 
+
+- - 📫 How to reach me **kolapradhika111@gmail.com**
+  - 
+I have comprehensive understanding of both front-end and back-end technologies,and I specialize in designing and developing web applications that are both visually appealing and highly functional skilled programming languages such as c#,c++,core java, adv.java and popular frameworks like React Additionally,I am proficient in database design and management,using technologies such as MySQL,MongoDB. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
