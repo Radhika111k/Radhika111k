@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Radhika</h1>
 <h3 align="center">A passionate FullStack, Web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScTDj_3c-P5J5IwYVwNQLjlKJ7b0XS67uqsT449jCroeUQyaibeBj4A7SzwlA2RFno3qo&usqp=CAU">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=radhika111k&label=Profile%20views&color=0e75b6&style=flat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScTDj_3c-P5J5IwYVwNQLjlKJ7b0XS67uqsT449jCroeUQyaibeBj4A7SzwlA2RFno3qo&usqp=CAU)" alt="radhika111k" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=radhika111k&label=Profile%20views&color=0e75b6&style=flat" alt="radhika111k" /> </p>
 
 - 🌱 I’m currently learning **Web Development,WordPress,React-JS,C++,C#,Java**
 
